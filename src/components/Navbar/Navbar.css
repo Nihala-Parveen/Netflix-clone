@@ -76,6 +76,10 @@
     display: block;
 }
 
+.nav-dark {
+    background: #141414;
+}
+
 @media (max-width : 800px) {
     .navbar {
         padding: 20px 4%;
